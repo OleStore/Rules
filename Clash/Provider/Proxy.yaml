@@ -13,13 +13,6 @@ payload:
   - DOMAIN-SUFFIX,wr.pvp.net
   - DOMAIN-SUFFIX,riotgames.com
 
-  # > Sony
-  - DOMAIN-SUFFIX,playstation.com
-  - DOMAIN-SUFFIX,playstation.net
-  - DOMAIN-SUFFIX,playstationnetwork.com
-  - DOMAIN-SUFFIX,sony.com
-  - DOMAIN-SUFFIX,sonyentertainmentnetwork.com
-
   # > Spark
   - DOMAIN-SUFFIX,api.amplitude.com
   - DOMAIN-SUFFIX,app.smartmailcloud.com
@@ -145,6 +138,7 @@ payload:
   - DOMAIN-SUFFIX,cocoapods.org
   - DOMAIN-SUFFIX,comodoca.com
   - DOMAIN-SUFFIX,content.office.net
+  - DOMAIN-SUFFIX,crisp.chat
   - DOMAIN-SUFFIX,culturedcode.com
   - DOMAIN-SUFFIX,cygames.jp
   - DOMAIN-SUFFIX,d.pr
@@ -310,6 +304,7 @@ payload:
   - DOMAIN-SUFFIX,megaupload.com
   - DOMAIN-SUFFIX,microsofttranslator.com
   - DOMAIN-SUFFIX,mindnode.com
+  - DOMAIN-SUFFIX,mixin.one
   - DOMAIN-SUFFIX,mlssoccer.com
   - DOMAIN-SUFFIX,mobile01.com
   - DOMAIN-SUFFIX,modmyi.com

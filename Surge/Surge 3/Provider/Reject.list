@@ -259,9 +259,7 @@ DOMAIN-SUFFIX,bfshan.cn
 
 
 
-# REJECT
 
-# > Client
 DOMAIN-SUFFIX,0.r.msn.com
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,001union.com
@@ -1281,6 +1279,7 @@ DOMAIN-SUFFIX,adsyndication.msn.com
 DOMAIN-SUFFIX,adsys.chinacloudapp.cn
 DOMAIN-SUFFIX,adsys.sinovision.net
 DOMAIN-SUFFIX,adtaily.com
+DOMAIN-SUFFIX,ad-tech.nbcuni.com
 DOMAIN-SUFFIX,adtechjp.com
 DOMAIN-SUFFIX,adtechus.com
 DOMAIN-SUFFIX,adtest.theonion.com
@@ -2255,7 +2254,6 @@ DOMAIN-SUFFIX,chmae.com
 DOMAIN-SUFFIX,chnhty.com
 DOMAIN-SUFFIX,chuantu.biz
 DOMAIN-SUFFIX,chushoushijian.cn
-DOMAIN-SUFFIX,c-hzgt2.getui.com
 DOMAIN-SUFFIX,ci.csefaazc.net
 DOMAIN-SUFFIX,ciajingman.com
 DOMAIN-SUFFIX,cilidaquan.pw
@@ -3549,7 +3547,6 @@ DOMAIN-SUFFIX,g.zx-jsp.com
 DOMAIN-SUFFIX,g1.0573ren.com
 DOMAIN-SUFFIX,g1.08160.cn
 DOMAIN-SUFFIX,g1.163.com
-DOMAIN-SUFFIX,g1.tagtic.cn
 DOMAIN-SUFFIX,g1.taijuba.com
 DOMAIN-SUFFIX,g1c5.com
 DOMAIN-SUFFIX,g1f5.com
@@ -7150,6 +7147,7 @@ DOMAIN-SUFFIX,tradeadexchange.com
 DOMAIN-SUFFIX,tradeccl.com
 DOMAIN-SUFFIX,trafficfactory.biz
 DOMAIN-SUFFIX,trafficjam.cn
+DOMAIN-SUFFIX,trafficjunky.com
 DOMAIN-SUFFIX,trafficjunky.net
 DOMAIN-SUFFIX,trafficmp.com
 DOMAIN-SUFFIX,tralog.ganji.com
@@ -7721,7 +7719,6 @@ DOMAIN-SUFFIX,wxb.wxbdfm.com
 DOMAIN-SUFFIX,wxmmh.net
 DOMAIN-SUFFIX,wxsnsdy.tc.qq.com
 DOMAIN-SUFFIX,wxsnsdy.video.qq.com
-DOMAIN-SUFFIX,wxsnsdy.wxs.qq.com
 DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
 DOMAIN-SUFFIX,wxtz.houmags.com
 DOMAIN-SUFFIX,wxwm1.ikuailian.com
@@ -8255,6 +8252,8 @@ URL-REGEX,^http:\/\/iad.*mat\.[a-z]*\.12[67]\.net/\w+\.(jpg|mp4)$
 # > Zhihu
 DOMAIN,mqtt.zhihu.com
 DOMAIN,sugar.zhihu.com
+DOMAIN,zhihu-analytics.zhihu.com
+DOMAIN,zhihu-web-analytics.zhihu.com
 DOMAIN-SUFFIX,xdrig.com
 URL-REGEX,https://api.zhihu.com/(fringe|zst|real_time|ad-style-service|banners|topstory/hot-lists|market/popover|mqtt|me|.*launch|.*featured-comment-ad|search/(top|tabs|preset))
 URL-REGEX,https://api.zhihu.com.*(launch|recommendations)
@@ -8318,7 +8317,7 @@ IP-CIDR,221.179.131.72/32,no-resolve
 IP-CIDR,221.179.140.145/32,no-resolve
 
 # > Dr.Peng
-IP-CIDR,10.72.25.0/24,no-resolve
+IP-CIDR,10.72.25.0/24
 IP-CIDR,115.182.16.79/32,no-resolve
 IP-CIDR,118.144.88.126/32,no-resolve
 IP-CIDR,118.144.88.215/32,no-resolve
